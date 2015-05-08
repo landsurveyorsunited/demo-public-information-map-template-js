@@ -38,7 +38,7 @@ define([
                 autopage: true,
                 visible: true,
                 maxpage: 3,
-                limit: 100,
+                limit: 1000,
                 title: 'Flickr',
                 id: 'flickr',
                 datePattern: "MMM d, yyyy",
