@@ -4,7 +4,7 @@
 
 This is a fully configurable public facing mapping application that highlights areas through authoritative data feeds and social content, allowing the public to tell a story.
 
-[View it live](http://esri.github.io/public-information-map-template-js/)
+[View it live](http://demo-sns-map.herokuapp.com/)
 
 The template can be configured using the following options:
 
