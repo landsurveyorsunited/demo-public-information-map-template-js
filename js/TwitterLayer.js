@@ -42,7 +42,7 @@ function (
             autopage: true,
             visible: true,
             maxpage: 5,
-            limit: 100,
+            limit: 1000,
             title: 'Twitter',
             id: 'twitter',
             datePattern: "MMM d, yyyy",

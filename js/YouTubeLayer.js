@@ -38,7 +38,7 @@ define([
                 autopage: true,
                 visible: true,
                 maxpage: 3,
-                limit: 50,
+                limit: 500,
                 title: 'YouTube',
                 id: 'youtube',
                 searchTerm: '',

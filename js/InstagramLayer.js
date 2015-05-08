@@ -38,7 +38,7 @@ function (
             autopage: true,
             visible: true,
             maxpage: 3,
-            limit: 100,
+            limit: 1000,
             title: 'Instagram',
             id: 'instagram',
             datePattern: "MMM d, yyyy",
